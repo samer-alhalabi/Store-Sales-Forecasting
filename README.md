@@ -7,6 +7,8 @@ Fbprophet is a procedure for forecasting time series data based on an additive m
 
 
 #### Training the model
+Base Model Accuracy: 69%. With fine-tuning the model accuracy will be higher.
+
 ![images](images/train_model.jpg)
 
 
