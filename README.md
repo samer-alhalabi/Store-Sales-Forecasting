@@ -7,10 +7,8 @@ Fbprophet is a procedure for forecasting time series data based on an additive m
 
 
 #### Training the model
-
 ![images](images/train_model.jpg)
 
 
 #### Sales Forecasting
-
 ![images](images/forecast.jpg)
